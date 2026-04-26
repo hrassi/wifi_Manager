@@ -5,8 +5,8 @@ import time
 wdt = WDT(timeout=30000)  # 30 seconds
 
 
-MyNetwork = "Rassi Net3"
-MyPassword = "Holyshit"
+MyNetwork = "Ra******t3"
+MyPassword = "Ho********t"
 
 
 # ───── 1. WAIT FOR WIFI AT STARTUP OPTIONAL ─────
